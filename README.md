@@ -3,6 +3,5 @@
 <p align="center"> Source: <a href="https://blog.devgenius.io/creating-crud-graphql-api-with-nodejs-express-mongodb-16c97e20e212">blog.devgenius.io</a> | <a href="https://github.com/crayOmn/graphql-crud-api"> Github </a> </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/62943499/
-#156896869-7063c6da-7d81-4e47-ad4c-e7bd427475ed.png" />
+<img src="https://user-images.githubusercontent.com/62943499/156897158-afb70881-9787-4ace-a5b9-83e65738fa75.png">
 <p>
