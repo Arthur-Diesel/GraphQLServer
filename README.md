@@ -1,4 +1,4 @@
-<h1 align="center"> GraphQLServer </h1>
+<h1 align="center">⚛️ GraphQLServer </h1>
 <h2 align="center"> Servidor com CRUD utilizando Express, GraphQL, Express GraphQL e um banco de dados MongoDB. </h2>
 <p align="center"> Source: <a href="https://blog.devgenius.io/creating-crud-graphql-api-with-nodejs-express-mongodb-16c97e20e212">blog.devgenius.io</a> | <a href="https://github.com/crayOmn/graphql-crud-api"> Github </a> </p>
 
